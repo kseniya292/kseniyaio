@@ -1,5 +1,5 @@
 ---
-title: "Women in Coding Workshop"
+title: "Women in Coding: Intro to HTML & CSS Workshop"
 date: 2016-04-13T22:43:08-07:00
 draft: false
 hello: 'hello there'

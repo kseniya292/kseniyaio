@@ -1,5 +1,5 @@
 ---
-title: "Women in Coding Workshop"
+title: "Women in Coding: Intro to HTML & CSS Workshop"
 date: 2017-02-04T18:29:04-07:00
 draft: false
 image: '/images/wic.png'

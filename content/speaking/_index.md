@@ -1,5 +1,5 @@
 ---
-title: Speaking Engagements
+title: Speaking & Workshops
 type: speaking
 layout: list
 date: 2019-04-07

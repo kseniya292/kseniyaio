@@ -2,8 +2,19 @@ img.logokl {
   width: 100px;
   padding-top: 1em;
 }
-.speaking-img {
+/* .speaking-img {
   width: 30%;
+} */
+
+.container-flex {
+  display: flex;
+}
+
+.item {
+  display: inline-block;
+  width: 33%;
+  height: 300px;
+  padding: 10px;
 }
 
 a {
@@ -20,3 +31,4 @@ a.navigation-link:hover {
 
 i:hover {
   color: #B9B8CC;
+}

@@ -19,9 +19,9 @@ disqusShortname = "yourdiscussshortname"
     author = "Kseniya Lifanova"
     description = "Kseniya Lifanova's personal website"
     keywords = "blog,developer,personal"
-    info = "Co-founder, Smart Contract Developer, Ethereum 🖤"
+    info = "Co-founder, Smart Contract Developer, Ethereum ❤️"
     avatarurl = "images/photo.png"
-    footercontent = "Kseniya Lifanova."
+    footercontent = "this is me"
 
     dateformat = "January 2, 2006"
 

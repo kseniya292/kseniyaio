@@ -1,5 +1,5 @@
 ---
-title: "DAppLadies Workshop"
+title: "DAppLadies Workshop: Intro to Solidity"
 date: 2019-05-01
 draft: false
 image: '/images/IntroToSolidity.png'
