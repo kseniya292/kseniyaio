@@ -1,0 +1,22 @@
+img.logokl {
+  width: 100px;
+  padding-top: 1em;
+}
+.speaking-img {
+  width: 30%;
+}
+
+a {
+  color: #FF0000;
+}
+
+.footer a{
+  color: #FF0000;
+}
+
+a.navigation-link:hover {
+  color: #FF0000;
+}
+
+i:hover {
+  color: #B9B8CC;
