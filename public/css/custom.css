@@ -1,0 +1,34 @@
+img.logokl {
+  width: 100px;
+  padding-top: 1em;
+}
+/* .speaking-img {
+  width: 30%;
+} */
+
+.container-flex {
+  display: flex;
+}
+
+.item {
+  display: inline-block;
+  width: 33%;
+  height: 300px;
+  padding: 10px;
+}
+
+a {
+  color: #FF0000;
+}
+
+.footer a{
+  color: #FF0000;
+}
+
+a.navigation-link:hover {
+  color: #FF0000;
+}
+
+i:hover {
+  color: #B9B8CC;
+}

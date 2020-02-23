@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speaking &amp; Workshops on Kseniya</title>
+    <link>https://kseniya.io/speaking/</link>
+    <description>Recent content in Speaking &amp; Workshops on Kseniya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://kseniya.io/speaking/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Devcon V: Panel on Inclusion &amp; Diversity</title>
+      <link>https://kseniya.io/speaking/devcon/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kseniya.io/speaking/devcon/</guid>
+      <description>Devcon V I was on a panel about Diversity and Inclusion in the blockchain space at Devcon V in Osaka, Japan.</description>
+    </item>
+    
+    <item>
+      <title>ERC-1155 : Across the Multiverse</title>
+      <link>https://kseniya.io/speaking/erc1155/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kseniya.io/speaking/erc1155/</guid>
+      <description>ERC-1155 : Across the Multiverse I gave a talk about Ethereum tokens and token standards: Meetup Event</description>
+    </item>
+    
+    <item>
+      <title>DAppLadies Workshop: Intro to Solidity</title>
+      <link>https://kseniya.io/speaking/dapp-ladies-workshop/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kseniya.io/speaking/dapp-ladies-workshop/</guid>
+      <description>Intro to Solidity Part I &amp;amp; II In this Intro to Solidity workshop, I&amp;rsquo;ll be starting with a basic overview of blockchain technology and and its history and progressing into teaching Solidity and how to write smart contracts. I&amp;rsquo;ll go over developer tools and the basic components that make up a smart contract. Part II will expand upon these concepts and participants will be coding their very own smart contract.</description>
+    </item>
+    
+    <item>
+      <title>Learn Teach Code Lightning Talks</title>
+      <link>https://kseniya.io/speaking/why-i-love-blockchain-technology/</link>
+      <pubDate>Sun, 18 Mar 2018 18:34:52 -0700</pubDate>
+      
+      <guid>https://kseniya.io/speaking/why-i-love-blockchain-technology/</guid>
+      <description>Why I Love Blockchain Technology Learn Teach Code is a tech organization based in Los Angeles, CA. In March of 2018, they held a Two-Minute Tech Talk Contest. I gave a talk about why I love blockchain technology and placed as one of the five winners.
+Slides
+Content</description>
+    </item>
+    
+    <item>
+      <title>Women in Coding: Intro to HTML &amp; CSS Workshop</title>
+      <link>https://kseniya.io/speaking/womenincoding-workshop/</link>
+      <pubDate>Sat, 04 Feb 2017 18:29:04 -0700</pubDate>
+      
+      <guid>https://kseniya.io/speaking/womenincoding-workshop/</guid>
+      <description>Intermediate HTML &amp;amp; CSS This was a three hour workshop that built on top of the Introduction to HTML &amp;amp; CSS that Women in Coding was hosting. In this class, I taught students standard design practices like using a reset stylesheet, fixed navigation menus, hero images, web fonts, animations, and the basics of responsive design.
+Meetup Event</description>
+    </item>
+    
+    <item>
+      <title>Women in Coding: Intro to HTML &amp; CSS Workshop</title>
+      <link>https://kseniya.io/speaking/womenincoding/</link>
+      <pubDate>Wed, 13 Apr 2016 22:43:08 -0700</pubDate>
+      
+      <guid>https://kseniya.io/speaking/womenincoding/</guid>
+      <description>Intro to HTML &amp;amp; CSS Workshop This was a two-part, 4-hour introduction to HTML &amp;amp; CSS hosted by Women in Coding. The class taught students how to structure a webpage with HTML and style if with CSS.
+Meetup Event</description>
+    </item>
+    
+  </channel>
+</rss>
